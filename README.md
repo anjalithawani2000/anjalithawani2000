@@ -1,14 +1,17 @@
 # Hey there! 👋 I'm Anjali Thawani
 
 👩‍💻 About Me
+
 I'm a tech enthusiast and seasoned software developer diving deep into the realms of Node.js, HTML/CSS, PHP, Java, JavaScript, and React. I love weaving magic with databases, mastering the art of PostgreSQL, MongoDB, and MySQL.
 
 💡 Interests
+
 Crafting captivating web experiences
 Architecting robust software solutions
 Exploring the synergy between code and creativity
 
 🌱 Currently Cultivating
+
 Nurturing my skills in 🚀 React development while also sharpening my expertise in Node.js backend architecture.
 
 🛠️ Tools of the Trade
@@ -34,7 +37,7 @@ In my toolkit, you'll find:
 📫 Reach me at : **anjalithawani24@gmail.com** or send a message on LinkedIn.
 
 
-## Connect with me  
+🔗 Connect with me  
 
 [![GitHub](https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white)](https://github.com/anjalithawani2000)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anjali-thawani835210208)
