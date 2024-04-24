@@ -20,7 +20,7 @@ In my toolkit, you'll find:
 - **Visual Studio Code**: My trusty companion for coding expeditions
 - **Git**: Empowering me with version control superpowers
 - **Postman**: Fueling my API testing endeavors
-- **MongoDB** Compass: Guiding me through data landscapes with finesse
+- **MongoDB Compass**: Guiding me through data landscapes with finesse
 - **MySQL**: It's like a friend that helps me organize and manage data in a structured way.
 
 💻 Languages and Tools
@@ -45,4 +45,5 @@ In my toolkit, you'll find:
 
 
 🤝 Collaboration
+
 I'm enthusiastic about collaborating on projects that push the boundaries of web development, software engineering, and database innovation. Let's create something extraordinary together!
